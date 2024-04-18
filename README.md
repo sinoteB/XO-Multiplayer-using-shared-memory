@@ -1,6 +1,3 @@
-To improve the description of your project for GitHub, you can make it more informative and engaging by including key details about how the project works, its features, and any requirements or instructions for setting it up and running it. Here’s a revised version of your description:
-XO Multiplayer Game Using Shared Memory in C++
-
 Project Overview:
 This repository contains the source code for a two-player XO (tic-tac-toe) game developed in C++. The game leverages POSIX shared memory for inter-process communication, allowing two players to participate in the same game instance on a Linux system.
 
